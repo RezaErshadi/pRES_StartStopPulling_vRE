@@ -1,0 +1,2 @@
+2023-01-17 20:23:47,038 - INFO - logger started
+2023-01-17 20:23:47,039 - INFO - INFO: gps started
